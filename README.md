@@ -2,6 +2,13 @@
 
 This is a project built with Elixir that uses Dynamo to serve web requests.
 
+Nurblizer in Elixir inspired by http://adambard.com/blog/PHP-ruby-python-clojure-webapps-by-example/
+
+See equivilent in:
+* Clojure: https://github.com/adambard/nurblizer-clj
+* Ruby: https://github.com/adambard/Nurblizer
+* PHP: https://github.com/adambard/nurblizer-php
+
 Resources:
 
 * [Elixir website](http://elixir-lang.org/)
