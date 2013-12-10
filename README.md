@@ -1,19 +1,10 @@
 # Nurblizer
 
-This is a project built with Elixir that uses Dynamo to serve web requests.
-
 Nurblizer in Elixir inspired by http://adambard.com/blog/PHP-ruby-python-clojure-webapps-by-example/
 
-See equivilent in:
+#### The main code can be found in: [application_router.ex](https://github.com/afhammad/nurblizer-elixir/blob/master/web/routers/application_router.ex)
+
+See equivalent in:
 * Clojure: https://github.com/adambard/nurblizer-clj
 * Ruby: https://github.com/adambard/Nurblizer
 * PHP: https://github.com/adambard/nurblizer-php
-
-Resources:
-
-* [Elixir website](http://elixir-lang.org/)
-* [Elixir getting started guide](http://elixir-lang.org/getting_started/1.html)
-* [Elixir docs](http://elixir-lang.org/docs)
-* [Dynamo source code](https://github.com/elixir-lang/dynamo)
-* [Dynamo guides](https://github.com/elixir-lang/dynamo#learn-more)
-* [Dynamo docs](http://elixir-lang.org/docs/dynamo)
