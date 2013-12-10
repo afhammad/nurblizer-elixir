@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title><%= @title %></title>
+  <link rel="shortcut icon" href="/static/favicon.ico" />
+</head>
+<body>
+  <h3>Welcome to Dynamo!</h3>
+  <%= inspect @nurbles %>
+  <form action="/nurble" method="post">
+    <fieldset>
+      <ul>
+        <li>
+          <label>Text to nurblize:</label>
+          <textarea name="text"></textarea>
+        </li>
+        <li>
+          <input type="submit" value="Nurblize Away!">
+        </li>
+      </ul>
+    </fieldset>
+  </form>
+</body>
+</html>
